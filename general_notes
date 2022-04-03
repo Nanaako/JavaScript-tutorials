@@ -1,0 +1,18 @@
+in JS let is used if value is changable 
+in JS const is used if value is stable and we don't want it to change throughout the whole program
+
+
+Comments allow to hide the code from website
+there are two ways:
+1. //
+2. /* ---- */
+
+Strings 
+we use strings to store 
+1. letters
+2. numbers
+3. other characters
+
+' ' can be used as space between first and last name
+
+
